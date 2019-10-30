@@ -8,7 +8,7 @@
     <artifactId>HTTPServerByNetty</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <netty-all.version>4.1.29.Final</netty-all.version>
+        <netty-all.version>4.1.42.Final</netty-all.version>
     </properties>
 
     <dependencies>
